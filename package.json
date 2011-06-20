@@ -10,7 +10,8 @@
   ],
   "dependencies": {
 	"mongoose": ">= 1.0.16",
-	"mongoose-dbref": ">= 0.0.1"
+	"mongoose-dbref": ">= 0.0.1",
+	"mongoose-joins": ">= 0.0.1"
   },
   "scripts": { 
     "test": "make test"
